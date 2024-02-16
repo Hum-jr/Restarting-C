@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(Restarting_C
-        hello.c)
+        hello.c
+        temp_Converter.c)

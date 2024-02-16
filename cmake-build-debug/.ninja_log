@@ -1,0 +1,16 @@
+# ninja log v5
+3	110	7297883665313397	CMakeFiles/Restarting_C.dir/hello.c.obj	74dae61fd5340f2c
+111	241	7297883666584048	Restarting_C.exe	e8c43b1f3582f6e0
+4	161	7297892045069823	CMakeFiles/Restarting_C.dir/hello.c.obj	74dae61fd5340f2c
+10	176	7297892045229396	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+4	116	7297892315509857	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+3	122	7297895654440736	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+5	98	7297896062950320	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+4	168	7297897140414789	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+4	104	7297898043998303	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+4	113	7297900713351201	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+4	113	7297902732891702	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+4	152	7297904555940561	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+4	125	7297913473077835	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+3	99	7297913682200353	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+4	102	7297914987021633	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
