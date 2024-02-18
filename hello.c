@@ -7,7 +7,7 @@
 
 int main(void){
     printf("Hello World, we are relearning programming.");
-    printf("TH enative language of the CPU");
+    printf("The native language of the CPU");
     return 0;
 }
 

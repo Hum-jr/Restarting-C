@@ -8,3 +8,4 @@ include_directories(.)
 add_executable(Restarting_C
         hello.c
         temp_Converter.c)
+add_executable(new_target Strings.c)

@@ -1,3 +1,4 @@
 C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Restarting-C/cmake-build-debug/CMakeFiles/Restarting_C.dir
+C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Restarting-C/cmake-build-debug/CMakeFiles/new_target.dir
 C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Restarting-C/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Restarting-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
