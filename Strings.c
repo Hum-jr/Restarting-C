@@ -3,7 +3,7 @@
 //
 
 #include <stdio.h>
-#include <strings.h>
+#include <string.h>
 
 int main(){
     char name[40];
@@ -13,10 +13,13 @@ int main(){
     char surname[]="Nyangiye";
 
     printf("Name is: %s ",name);
-    strcpy(surname,name);
+    strcpy(surname,name); //Copying strings in C
 
-    strcat(name,surname);
+    strcat(name,surname); //Concanating strings in C
 
     printf("Name is: %s ",name);
+
+
+    printf("Length of string is: %d Size is: %d", strlen(name),sizeof(name));//String lemgth and size functions
     return 0;
 }
