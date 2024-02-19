@@ -1,5 +1,7 @@
 # ninja log v5
-4	161	7297892045069823	CMakeFiles/Restarting_C.dir/hello.c.obj	74dae61fd5340f2c
+5	461	7299429521590791	CMakeFiles/Restarting_C.dir/hello.c.obj	74dae61fd5340f2c
 111	241	7297883666584048	Restarting_C.exe	e8c43b1f3582f6e0
 4	102	7297914987021633	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
-5	461	7299429521590791	CMakeFiles/Restarting_C.dir/hello.c.obj	74dae61fd5340f2c
+14	320	7300122492256788	CMakeFiles/Restarting_C.dir/temp_Converter.c.obj	651c40bac27c6296
+21	322	7300122492256788	CMakeFiles/Restarting_C.dir/Decisions.c.obj	4744747001dfcd01
+5	333	7300122492327608	CMakeFiles/Restarting_C.dir/hello.c.obj	74dae61fd5340f2c
