@@ -24,5 +24,11 @@ int main(){
     if(num=64){
         printf("This is true");
     }
+
+    //putchar function is a shorthand for prinitng characters
+    putchar('&');
+
+    //For switch statments only non-iintegral types can be compared
+
     return 0;
 }

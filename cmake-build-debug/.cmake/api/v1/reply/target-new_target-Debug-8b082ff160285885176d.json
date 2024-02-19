@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Restarting_C.exe"
+			"path" : "new_target.exe"
 		},
 		{
-			"path" : "Restarting_C.pdb"
+			"path" : "new_target.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -28,7 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 13,
 				"parent" : 0
 			},
 			{
@@ -66,13 +66,11 @@
 			},
 			"sourceIndexes" : 
 			[
-				0,
-				1,
-				2
+				0
 			]
 		}
 	],
-	"id" : "Restarting_C::@6890427a1f51a3e7e1df",
+	"id" : "new_target::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -92,8 +90,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Restarting_C",
-	"nameOnDisk" : "Restarting_C.exe",
+	"name" : "new_target",
+	"nameOnDisk" : "new_target.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -105,9 +103,7 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				1,
-				2
+				0
 			]
 		}
 	],
@@ -116,19 +112,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "hello.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "temp_Converter.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "Decisions.c",
+			"path" : "Strings.c",
 			"sourceGroupIndex" : 0
 		}
 	],

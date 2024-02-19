@@ -70,6 +70,13 @@ build CMakeFiles/Restarting_C.dir/Decisions.c.obj: C_COMPILER__Restarting_C_unsc
   OBJECT_DIR = CMakeFiles\Restarting_C.dir
   OBJECT_FILE_DIR = CMakeFiles\Restarting_C.dir
 
+build CMakeFiles/Restarting_C.dir/boxaroundstring.c.obj: C_COMPILER__Restarting_C_unscanned_Debug C$:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Restarting-C/boxaroundstring.c || cmake_object_order_depends_target_Restarting_C
+  DEP_FILE = CMakeFiles\Restarting_C.dir\boxaroundstring.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Restarting-C/.
+  OBJECT_DIR = CMakeFiles\Restarting_C.dir
+  OBJECT_FILE_DIR = CMakeFiles\Restarting_C.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Restarting_C
@@ -78,7 +85,7 @@ build CMakeFiles/Restarting_C.dir/Decisions.c.obj: C_COMPILER__Restarting_C_unsc
 #############################################
 # Link the executable Restarting_C.exe
 
-build Restarting_C.exe: C_EXECUTABLE_LINKER__Restarting_C_Debug CMakeFiles/Restarting_C.dir/hello.c.obj CMakeFiles/Restarting_C.dir/temp_Converter.c.obj CMakeFiles/Restarting_C.dir/Decisions.c.obj
+build Restarting_C.exe: C_EXECUTABLE_LINKER__Restarting_C_Debug CMakeFiles/Restarting_C.dir/hello.c.obj CMakeFiles/Restarting_C.dir/temp_Converter.c.obj CMakeFiles/Restarting_C.dir/Decisions.c.obj CMakeFiles/Restarting_C.dir/boxaroundstring.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Restarting_C.dir

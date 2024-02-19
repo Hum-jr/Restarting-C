@@ -8,5 +8,6 @@ include_directories(.)
 add_executable(Restarting_C
         hello.c
         temp_Converter.c
-        Decisions.c)
+        Decisions.c
+        boxaroundstring.c)
 add_executable(new_target Strings.c)
