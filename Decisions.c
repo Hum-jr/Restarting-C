@@ -8,6 +8,7 @@
 
 int main(){
     char password[20];
+    int num;
     printf("Enter any Password: ");
     scanf("%19s",&password);
 
@@ -16,5 +17,12 @@ int main(){
         printf("Correct password");
     else
         printf("Wrong password");
+
+    //The assignment operator always returns the assigned value.
+    //The below statment will alwways evaluate to true
+
+    if(num=64){
+        printf("This is true");
+    }
     return 0;
 }
