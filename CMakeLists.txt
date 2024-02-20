@@ -9,5 +9,6 @@ add_executable(Restarting_C
         hello.c
         temp_Converter.c
         Decisions.c
-        boxaroundstring.c)
+        boxaroundstring.c
+        Functions.c)
 add_executable(new_target Strings.c)
