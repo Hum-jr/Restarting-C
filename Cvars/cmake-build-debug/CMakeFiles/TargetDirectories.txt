@@ -1,0 +1,3 @@
+C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Cvars/cmake-build-debug/CMakeFiles/Cvars.dir
+C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Cvars/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Cvars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
