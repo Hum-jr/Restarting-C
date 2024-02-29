@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Programming",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Programming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Programming-Debug-561b5b68e92e3b970186.json",
+					"name" : "Programming",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointer-Debug-7f7dd3bb71c97e1682a1.json",
+					"name" : "pointer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Programming/cmake-build-debug",
+		"source" : "C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Programming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

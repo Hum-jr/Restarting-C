@@ -1,0 +1,4 @@
+C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Programming/cmake-build-debug/CMakeFiles/Programming.dir
+C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Programming/cmake-build-debug/CMakeFiles/pointer.dir
+C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/humph/OneDrive/Documents/Ders/Proglamlama/Restart/Programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
